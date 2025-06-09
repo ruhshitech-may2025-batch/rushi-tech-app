@@ -2,3 +2,4 @@
 echo "Welcome To Git"
 pwd
 date
+whoami
