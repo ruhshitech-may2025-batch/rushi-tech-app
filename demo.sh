@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Welcome To Git"
-pwd
+ls
 date
