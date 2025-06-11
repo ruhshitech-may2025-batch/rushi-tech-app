@@ -3,4 +3,3 @@ echo "Welcome To Git"
 ls
 date
 whoami
-
